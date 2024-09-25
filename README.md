@@ -1,5 +1,5 @@
 # El_Gamal
-Implementation of El Gamal Cypher and simulation of a user-server connection.
+Implementation of El Gamal Cypher with simulation of a user-server connection.
 
 How to test:
 Both computers (Server and Client) must be part of the same network
